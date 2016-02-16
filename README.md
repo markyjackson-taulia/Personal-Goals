@@ -6,6 +6,13 @@
 3. Code Everyday
 
 
+## Books To Read
+JavaScript & jQuery - Jon Duckett
+Eloquent JavaScript
+JavaScript The Definitive Guide
+
+
+
 
 
 
