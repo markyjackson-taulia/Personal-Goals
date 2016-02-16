@@ -10,6 +10,7 @@
 
 1. [Eloquent JavaScript](http://eloquentjavascript.net/).
 2. JavaScript & jQuery By Jon Duckett
+3. You Don't Know JS [](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going).
 
 
 
