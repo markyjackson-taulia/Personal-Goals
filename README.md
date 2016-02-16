@@ -9,6 +9,8 @@
 ## Books To Read
 
 [Eloquent JavaScript](http://eloquentjavascript.net/).
+JavaScript & jQuery By Jon Duckett
+
 
 
 
