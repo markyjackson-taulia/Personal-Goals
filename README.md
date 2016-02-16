@@ -1,2 +1,4 @@
 # Personal Goals
-learning goals; reading goals; project goals
+A repo to help organize projects and reading goals.
+
+
