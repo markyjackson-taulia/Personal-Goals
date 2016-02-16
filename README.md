@@ -1,9 +1,9 @@
 # Personal Goals
 ## A repo to help organize projects and reading goals.
 
--JavaScript
--Build Things
--Code Everyday
+1. JavaScript
+2. Build Things
+3. Code Everyday
 
 
 
