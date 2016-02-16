@@ -3,7 +3,8 @@
 
 1. JavaScript
 2. Build Things
-3. Code Everyday
+
+
 
 
 
