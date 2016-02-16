@@ -1,2 +1,2 @@
-# Personal-Goals
+# Personal Goals
 learning goals; reading goals; project goals
