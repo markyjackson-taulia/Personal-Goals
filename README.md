@@ -17,7 +17,7 @@
 ## Topics to Learn
 * Algorithms
 * Git
-* 
+* Data Structures
 
 
 
