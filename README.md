@@ -16,6 +16,7 @@
 
 ## Topics to Learn
 * Algorithms
+* Git
 * 
 
 
