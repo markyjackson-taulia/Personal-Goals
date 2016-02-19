@@ -2,8 +2,9 @@
 ## A repo to help organize my goals,projects,things to read.
 
 1. JavaScript
-2. Build Things
+2. Build a simple project a week. 
 3. Code Everyday
+4. fCC
 
 
 ## Books To Read
