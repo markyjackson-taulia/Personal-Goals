@@ -4,7 +4,8 @@
 1. JavaScript
 2. Build a simple project a week. 
 3. Code Everyday
-4. fCC
+4. FCC
+5. Make new homepage
 
 
 ## Books To Read
