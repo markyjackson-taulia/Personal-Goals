@@ -6,6 +6,7 @@
 3. Code Everyday
 4. FCC
 5. Make new homepage
+6. Start second project
 
 
 ## Books To Read
