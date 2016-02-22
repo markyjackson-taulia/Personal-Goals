@@ -4,9 +4,8 @@
 1. JavaScript
 2. Build a simple project a week. 
 3. Code Everyday
-4. FCC
-5. Make new homepage
-6. Start second project
+4. FCC --> In Progress
+5. Start second project --> In Progress
 
 
 ## Books To Read
