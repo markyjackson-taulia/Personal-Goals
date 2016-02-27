@@ -1,5 +1,5 @@
 # Personal Goals
-## A repo to help organize my goals,projects,things to read.
+## A repo to help organize my goals,projects,and what I am reading. 
 
 1. JavaScript
 2. Build a simple project a week. 
