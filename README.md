@@ -5,7 +5,7 @@
 2. Build a simple project a week. 
 3. Code Everyday
 4. FCC --> In Progress
-5. Start second project --> In Progress
+
 
 
 ## Books To Read
@@ -18,7 +18,6 @@
 
 
 ## Topics to Learn
-* Algorithms
 * Git
 * Data Structures
 * Encryption
