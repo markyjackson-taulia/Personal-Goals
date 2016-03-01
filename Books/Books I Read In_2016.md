@@ -13,3 +13,4 @@
 # March
 
 1. Work Rules! - Laszlo Bock --> In Progress
+2. Hackers & Painters - Paul Graham --> In Progress
