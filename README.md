@@ -20,6 +20,7 @@
 * Git/Terminal/Github
 * Data Structures
 * Encryption
+* SSH
 
 
 
