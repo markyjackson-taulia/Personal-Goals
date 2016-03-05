@@ -14,3 +14,4 @@
 
 1. Work Rules! - Laszlo Bock --> In Progress
 2. Hackers & Painters - Paul Graham --> In Progress
+3. AskGaryVee --> In Progress
