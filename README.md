@@ -2,11 +2,11 @@
 ## A repo to help organize my goals,projects,and what I am reading. 
 
 ## What I am working on
-1. JavaScript
+1. Code Everyday
 2. Build a simple project a week. 
-3. Code Everyday
+3. JavaScript
 4. FCC --> In Progress
-5. HTML/CSS
+5. HTML/CSS Refresher
 
 
 
