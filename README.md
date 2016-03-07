@@ -1,7 +1,7 @@
 # Personal Goals
 ## A repo to help organize my goals,projects,and what I am reading. 
 
-## What I am working on.
+## What I am working on
 1. JavaScript
 2. Build a simple project a week. 
 3. Code Everyday
