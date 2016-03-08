@@ -1,5 +1,7 @@
 # Personal Goals
-## A repo to help organize my goals,projects,and what I am reading. 
+
+## A repo to help organize my Goals, Projects, and Books I am reading. 
+
 
 ## What I am working on
 1. Code Everyday
