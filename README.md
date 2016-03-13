@@ -23,8 +23,7 @@
 ## Topics to Learn
 
 * Git/Terminal/Github
-* Data Structures
-* Encryption
+* Security
 * SSH
 * Squarespace
 * Shopify
