@@ -26,7 +26,7 @@
 * Security
 * SSH
 * Squarespace
-* Shopify
+* 
 
 
 
