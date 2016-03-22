@@ -4,7 +4,7 @@
 
 
 ## What I am working on
-1. Code Everyday
+1. [Write Code Everyday] (http://ejohn.org/blog/write-code-every-day/)
 2. Build a simple project a week. 
 3. JavaScript
 4. FCC --> In Progress
