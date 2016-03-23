@@ -6,9 +6,10 @@
 ## What I am working on
 1. [Write Code Everyday] (http://ejohn.org/blog/write-code-every-day/)
 2. Build a simple project a week. 
-3. JavaScript
+3. Deepen my understanding of JavaScript.
 4. FCC --> In Progress
 5. HTML/CSS Refresher
+6. Get a Job 
 
 
 
