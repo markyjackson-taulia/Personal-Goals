@@ -24,7 +24,7 @@
 ## Topics to Learn
 
 * Git/Terminal/Github
-* Security
+* JavaScript
 * SSH
 * Squarespace
 * jQuery
