@@ -8,8 +8,8 @@
 2. Build a simple project a week. 
 3. Deepen my understanding of JavaScript.
 4. FCC --> In Progress
-5. HTML/CSS Refresher
-6. Get a Job 
+5. Udemy Web Development Course 
+6. Land a Job  
 
 
 
