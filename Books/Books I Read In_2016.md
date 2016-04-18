@@ -12,6 +12,12 @@
 
 # March
 
-1. Work Rules! - Laszlo Bock --> In Progress
+1. Work Rules! - Laszlo Bock 
 2. Hackers & Painters - Paul Graham --> In Progress
 3. AskGaryVee --> In Progress
+
+# April 
+
+1. Hackers & Painters - Paul Graham --> In Progress
+
+
