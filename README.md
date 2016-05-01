@@ -6,8 +6,6 @@
 ## What I am working on
 1. [Write Code Everyday] (http://ejohn.org/blog/write-code-every-day/)
 2. Build a simple project a week. 
-3. Deepen my understanding of JavaScript.
-4. FCC --> On Hold
 5. Udemy Web Development Course --> In Progress
 6. Land a Job  
 
@@ -26,8 +24,8 @@
 * Git/Terminal/Github
 * JavaScript
 * SSH
-* Squarespace
 * jQuery
+* Node
 
 
 
