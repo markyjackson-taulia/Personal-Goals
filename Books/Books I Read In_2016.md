@@ -13,11 +13,16 @@
 # March
 
 1. Work Rules! - Laszlo Bock 
-2. Hackers & Painters - Paul Graham --> In Progress
-3. AskGaryVee --> In Progress
+3. AskGaryVee 
 
 # April 
 
-1. Hackers & Painters - Paul Graham --> In Progress
+1. Hackers & Painters - Paul Graham 
+
+# May 
+
+1. Porcelain - Moby 
+2. Without their permission --> In Progress
+3. How not to die --> In Progress
 
 
