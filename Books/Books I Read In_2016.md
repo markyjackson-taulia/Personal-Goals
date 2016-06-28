@@ -22,7 +22,10 @@
 # May 
 
 1. Porcelain - Moby 
-2. Without their permission --> In Progress
-3. How not to die --> In Progress
+2. Without their permission 
+3. How not to die 
+
+# June
+1. Ego is the Enemy - Ryan Holiday
 
 
