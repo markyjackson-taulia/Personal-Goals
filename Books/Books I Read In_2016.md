@@ -27,5 +27,6 @@
 
 # June
 1. Ego is the Enemy - Ryan Holiday
+2. Mastery- Robert Greene
 
 
