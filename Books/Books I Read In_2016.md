@@ -31,3 +31,6 @@
 
 # July
 1. In search of the Perfect Loaf
+
+# August
+1. Crypto - Stephen Levy
