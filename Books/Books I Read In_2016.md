@@ -34,3 +34,4 @@
 
 # August
 1. Crypto - Stephen Levy
+2. Choose Yourself - James Altucher
