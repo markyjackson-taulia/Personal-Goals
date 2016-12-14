@@ -5,6 +5,7 @@
 
 ## What I am working on
 1. [Write Code Everyday] (http://ejohn.org/blog/write-code-every-day/)
+  - or @markyjackson-taulia will not let me live it down
 2. Build a simple project a week. 
 5. Udemy Web Development Course --> In Progress
 6. Land a Job  
